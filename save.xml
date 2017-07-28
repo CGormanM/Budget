@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<bills>
+    <bill>
+        <allocatedAmount>340</allocatedAmount>
+        <amount>580</amount>
+        <description></description>
+        <lastPayment>2017-07-08</lastPayment>
+        <name>Rent</name>
+        <owedAmount>0</owedAmount>
+        <payable>100</payable>
+        <payments></payments>
+        <priority>179.72602739726028</priority>
+        <recurrence>14</recurrence>
+    </bill>
+    <bill>
+        <allocatedAmount>200</allocatedAmount>
+        <amount>200</amount>
+        <description></description>
+        <lastPayment>2017-07-07</lastPayment>
+        <name>Food</name>
+        <owedAmount>0</owedAmount>
+        <payable>100</payable>
+        <payments></payments>
+        <priority>130.0</priority>
+        <recurrence>14</recurrence>
+    </bill>
+    <bill>
+        <allocatedAmount>2</allocatedAmount>
+        <amount>9</amount>
+        <description>	</description>
+        <lastPayment>2017-07-03</lastPayment>
+        <name>Netflix</name>
+        <owedAmount>0</owedAmount>
+        <payable>3</payable>
+        <payments></payments>
+        <priority>96.71232876712328</priority>
+        <recurrence>30</recurrence>
+    </bill>
+    <bill>
+        <allocatedAmount>135</allocatedAmount>
+        <amount>65</amount>
+        <description></description>
+        <lastPayment>2017-07-19</lastPayment>
+        <name>Rego</name>
+        <owedAmount>0</owedAmount>
+        <payable>20</payable>
+        <payments></payments>
+        <priority>10.54794520547945</priority>
+        <recurrence>365</recurrence>
+    </bill>
+</bills>
